@@ -12,7 +12,7 @@ const router = express.Router();
 const path = require("path");
 
 // dotenv.config();
-const url = "mongodb+srv://mayukhacsm:Mayu2Medhu@cluster0.a0asgpc.mongodb.net/"
+const url = "mongodb+srv://ui:PW@cluster0.a0asgpc.mongodb.net/"
 
 mongoose.connect(
   url,
